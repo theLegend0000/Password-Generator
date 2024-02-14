@@ -1,0 +1,12 @@
+1.Do some basic styling for the app.
+
+2. First make 4 string variables namely upperCase, lowerCase, numbers, specialCharacters
+
+3. ask the user for the length of the password
+
+4. then ask the strength for the password
+
+5. first import 'random' library finally select random characters from the above 4 string variables and strore it in a 
+   seperate variable 'password'
+
+6. print password
